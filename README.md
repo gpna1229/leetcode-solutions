@@ -1,3 +1,3 @@
 # leetcode-python-solutions
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/annaduen)
+![Leetcode Stats](https://leetcard.jacoblin.cool/annaduen?ext=heatmap)
